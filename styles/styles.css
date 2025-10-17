@@ -71,7 +71,7 @@ table {
 	border: 2px dotted black;
 }
 
-.page-content {
+#page-content {
 	margin-left: 10%;
 	margin-right: 10%;
 }
